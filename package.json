@@ -3,7 +3,6 @@
     "description": "A bootstrap to run Mocha in PhantomJS",
     "version": "0.1.0",
     "devDependencies": {
-        "flour": "",
         "coffee-script": "1.4.0"
     },
     "scripts": {

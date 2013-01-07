@@ -1,5 +1,4 @@
 cp    = require 'child_process'
-flour = require 'flour'
 
 task 'test', ->
     assets = '/test/assets/'

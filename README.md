@@ -5,6 +5,14 @@ Mocha PhantomJS
 
 Bootstrap to run [mocha](http://github.com/visionmedia/mocha) tests on PhantomJS using [Travis-CI](http://travis-ci.org).
 
+Running
+-------
+
+```
+npm install
+cake test
+```
+
 Dependencies
 ------------
 
