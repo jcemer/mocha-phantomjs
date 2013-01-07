@@ -1,0 +1,20 @@
+{
+    "name": "mocha-phantomjs",
+    "description": "A bootstrap to run Mocha in PhantomJS",
+    "version": "0.1.0",
+    "devDependencies": {
+        "flour": "",
+        "coffee-script": "1.4.0"
+    },
+    "scripts": {
+        "test": "cake test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mocha-phantomjs/rye.git"
+    },
+    "authors": [
+        "Jean Carlo Emer @jcemer <jeancarloemer@gmail.com> (https://github.com/jcemer)"
+    ],
+    "license": "MIT (jcemer.mit-license.org)"
+}
